@@ -27,7 +27,7 @@ powershell# Uso básico (requiere permisos de administrador)
 .\vnc_finder.ps1 -Verbose
 
 # Desencriptar una clave específica
-.\vnc_decrypt.ps1 -EncryptedKey "C8ED86985B900E5D"
+.\vnc_decrypt.ps1 -EncryptedKey "E8CD86985B500E5D"
 En entornos de pruebas de penetración (Kali Linux)
 bash# Escaneo remoto de objetivos VNC
 ./vnc_scanner.sh 192.168.1.0/24
